@@ -1,0 +1,6 @@
+*.dll
+mods/*.c
+mods/*.o
+
+x86_64/*
+__pycache__/*
