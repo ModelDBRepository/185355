@@ -37,7 +37,7 @@ double nrn_random_pick(void* r);
 void* nrn_random_arg(int argpos);
 #define RANDCAST
 #else
-#define RANDCAST (Rand*) 
+#define RANDCAST (Rand*)
 #endif
 
 ENDVERBATIM
